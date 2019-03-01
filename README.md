@@ -1,3 +1,5 @@
+# Lecture: 107-2 [金融科技-文字探勘與機器學習]
+
 # Political-News-Analysis
 
 In this project, we analysis the political news between 2018-07-01 and 2018-12-31 from various media.
