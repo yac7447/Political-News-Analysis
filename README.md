@@ -1,5 +1,7 @@
 # Lecture: 107-2 [金融科技-文字探勘與機器學習]
 
+## [Updates]  Added codes to get "Keywords" in the 'liberty_times_crawler' from TA's work. The data we got is updated to the data file.
+
 # Political-News-Analysis
 
 In this project, we analysis the political news between 2018-07-01 and 2018-12-31 from various media.
